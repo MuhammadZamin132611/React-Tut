@@ -1,3 +1,4 @@
+// functional comonent
 function Users(){
     return(
     <div className="App">
