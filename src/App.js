@@ -10,12 +10,29 @@ import React,{useState} from 'react';
 // import Tut14 from './Tut14';
 // import Tut15 from './Tut15';
 // import Tut16 from './Tut16';
-import Tut17 from './Tut17';
+// import Tut17 from './Tut17';
+// import Tut18 from './Tut18';
+// import Tut19 from './Tut19';
+// import Tut20 from './Tut20';
+// import Tut22 from './Tut22';
+// import Tut23 from './Tut23';
+// import Tut24 from './Tut24';
+// import Tut26 from './Tut26';
+// import Tut27 from './Tut27';
+// import Tut28 from './Tut28';
+// import Tut29 from './Tut29';
+import Tut30 from './Tut30';
 function App() {
   // const [name,setName]=useState("Anil")
+  // function getData(){
+  //   alert("hello from app");
+  // }
+  // const [name,setName]=React.useState("Zamin")
   return (
     <div className="App">
-      <Tut17 />
+      <Tut30 />
+      {/* <button onClick={()=>setName("Mohd")}>Update Name</button> */}
+      {/* <Tut20 data={()=>getData()}/> */}
       {/* <Tut14 name={"Peter"} email={"peter@test.com"}/> */}
       {/* <button onClick={()=>{setName("Siddhu")}}>Update name</button> */}
       {/* <Tut13 name={"zamin"} email={"zamin@test.com"} other={{address:"Noida", mobile:"111"}}/> */}
