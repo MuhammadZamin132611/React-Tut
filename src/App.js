@@ -21,7 +21,12 @@ import React,{useState} from 'react';
 // import Tut27 from './Tut27';
 // import Tut28 from './Tut28';
 // import Tut29 from './Tut29';
-import Tut30 from './Tut30';
+// import Tut30 from './Tut30';
+// import Tut31 from './Tut31';
+// import Tut33 from './Tut33';
+// import Tut34 from './Tut34';
+// import Tut35 from './Tut35';
+import Tut36 from './Tut36';
 function App() {
   // const [name,setName]=useState("Anil")
   // function getData(){
@@ -30,7 +35,7 @@ function App() {
   // const [name,setName]=React.useState("Zamin")
   return (
     <div className="App">
-      <Tut30 />
+      <Tut36 />
       {/* <button onClick={()=>setName("Mohd")}>Update Name</button> */}
       {/* <Tut20 data={()=>getData()}/> */}
       {/* <Tut14 name={"Peter"} email={"peter@test.com"}/> */}
