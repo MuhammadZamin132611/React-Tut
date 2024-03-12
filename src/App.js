@@ -1,5 +1,5 @@
 import './App.css';
-import React,{useState} from 'react';
+import React from 'react';
 // import logo from './logo.svg';
 // import Users from './Users';
 // import About from './About';
@@ -26,7 +26,13 @@ import React,{useState} from 'react';
 // import Tut33 from './Tut33';
 // import Tut34 from './Tut34';
 // import Tut35 from './Tut35';
-import Tut36 from './Tut36';
+// import Tut36 from './Tut36';
+// import Tut37 from './Tut37';
+// import Tut38 from './Tut38';
+// import Tut39 from './Tut39';
+// import Tut40 from './Tut40';
+// import Tut41 from './Tut41';
+import Tut42 from './Tut42';
 function App() {
   // const [name,setName]=useState("Anil")
   // function getData(){
@@ -35,7 +41,7 @@ function App() {
   // const [name,setName]=React.useState("Zamin")
   return (
     <div className="App">
-      <Tut36 />
+      <Tut42 />
       {/* <button onClick={()=>setName("Mohd")}>Update Name</button> */}
       {/* <Tut20 data={()=>getData()}/> */}
       {/* <Tut14 name={"Peter"} email={"peter@test.com"}/> */}
