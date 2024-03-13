@@ -32,7 +32,10 @@ import React from 'react';
 // import Tut39 from './Tut39';
 // import Tut40 from './Tut40';
 // import Tut41 from './Tut41';
-import Tut42 from './Tut42';
+// import Tut42 from './Tut42';
+// import Tut43 from './Tut43';
+// import Tut44 from './Tut44';
+import Tut45 from './Tut45';
 function App() {
   // const [name,setName]=useState("Anil")
   // function getData(){
@@ -41,7 +44,7 @@ function App() {
   // const [name,setName]=React.useState("Zamin")
   return (
     <div className="App">
-      <Tut42 />
+      <Tut45 />
       {/* <button onClick={()=>setName("Mohd")}>Update Name</button> */}
       {/* <Tut20 data={()=>getData()}/> */}
       {/* <Tut14 name={"Peter"} email={"peter@test.com"}/> */}
