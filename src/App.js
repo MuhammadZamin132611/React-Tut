@@ -35,7 +35,8 @@ import React from 'react';
 // import Tut42 from './Tut42';
 // import Tut43 from './Tut43';
 // import Tut44 from './Tut44';
-import Tut45 from './Tut45';
+// import Tut45 from './Tut45';
+import Tut46 from './Tut46';
 function App() {
   // const [name,setName]=useState("Anil")
   // function getData(){
@@ -44,7 +45,7 @@ function App() {
   // const [name,setName]=React.useState("Zamin")
   return (
     <div className="App">
-      <Tut45 />
+      <Tut46 />
       {/* <button onClick={()=>setName("Mohd")}>Update Name</button> */}
       {/* <Tut20 data={()=>getData()}/> */}
       {/* <Tut14 name={"Peter"} email={"peter@test.com"}/> */}
